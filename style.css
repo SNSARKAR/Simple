@@ -1,0 +1,26 @@
+body{
+	background-color: #1e8bc3;
+}
+
+.wrapper {
+	color: #fff;
+	margin-top: 20%;
+	margin-left: 35%;
+}
+
+.heading{
+	font-size: 60px;
+	font-family: Times New Roman;
+	padding-left: 30px;
+}
+.input-group{
+	width: 400px;
+	display: flex;
+
+}
+.textbox{
+	margin-right: 5px;
+}
+button{
+	color: #2e3131;
+}
